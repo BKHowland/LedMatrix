@@ -1,4 +1,4 @@
-# LedMatrix
+# led-matrix
 Program for my LED Matrix project. Loaded on ESP32.
 
 Project details:
